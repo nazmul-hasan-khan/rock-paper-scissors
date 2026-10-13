@@ -58,3 +58,5 @@ function playGame() {
     console.log('Game over! Round Draw! Try again.');
   }
   }
+
+// Type "playGame()" and press Enter. then type 'Rock', 'Paper' or 'Scissors' when prompted to play the game.
